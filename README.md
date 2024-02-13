@@ -138,7 +138,7 @@
 <details>
 <summary>10. 프로젝트 피드 - 옵션(색상, 폴더, 나가기, 삭제 임직원 초대 및 검색)</summary>
 
-![SODA_Searchbar](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/7d6992ad-540d-43d2-becc-db63119ffb17)
+![SODA_Project_Option](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/864829c9-8d71-4cc5-9bf5-ec05484be4fd)
 
 </details>
 
