@@ -34,3 +34,8 @@
 	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	<img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/>
 </div>
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
+</div>
