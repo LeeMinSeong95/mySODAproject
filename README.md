@@ -124,7 +124,7 @@
 <details>
 <summary>8. 관리자 페이지</summary>
 
-![SODA_Admin1](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/89ac9bbb-df83-46d1-919c-de23c9a3ee12)
+![SODA_Ad](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/00902e56-1527-4666-b04b-a67fc87e2bf7)
 
 </details>
 
