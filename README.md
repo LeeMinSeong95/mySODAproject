@@ -32,7 +32,7 @@
 	<img src="https://img.shields.io/badge/Oracle SQL-FF0000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-008000?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Ajax-4682B4?style=flat&logo=Ajax&logoColor=white" />
-	<img src="https://img.shields.io/badge/JSP-4682B4?style=flat&logo=JSP&logoColor=white" />
+	<img src="https://img.shields.io/badge/Servlet&JSP-4682B4?style=flat&logo=JSP&logoColor=white" />
 </div> <br><br>
 
 <div>
