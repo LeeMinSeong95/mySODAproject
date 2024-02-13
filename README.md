@@ -3,9 +3,9 @@
 </div>
 
 # 📑Introduce My Project!📑
-프로젝트명 : 협업툴-SODA
-소개 : 협업툴 flow를 참고하여 만든 협업툴 프로젝트입니다.
- : 
+1. 프로젝트명 : 협업툴-SODA
+2. 소개 : 협업툴 flow를 참고하여 만든 협업툴 프로젝트입니다.
+3.  : 
 
 # 📡Tech Stack & Tools📡
 <div>
