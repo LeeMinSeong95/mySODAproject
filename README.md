@@ -8,10 +8,10 @@
 3. 소개 : COVID-19 질병 이후 비대면 업무가 중요해진 현 시대에서 장소 및 시간의 제약 조건 없이 업무를 볼 수 있는 장점을 살리며, 학교와 병원 회사에서 다양하게 사용될 수 있는 것이 협업툴 일 것입니다.
 4. 개발기간 : 23.08.28 ~ 24.02.07
 
-# 📡Tech Stack & Tools📡
+# 📡Tech Stack & Tools
 <div>
 	<div>
-		💻Tech Stack
+		💻Tech Stack💻
 	</div> <br>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
