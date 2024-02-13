@@ -149,5 +149,12 @@
 
 </details>
 
+<details>
+<summary>12. 프로젝트 피드 - 프로필</summary>
+
+![SODA_MemberProfile](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/d7e27fab-af6c-4405-9fd4-76c22c98315e)
+
+</details>
+
 # 🛢DataBase ERD
 ![SODA_ERD](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/71aecd64-0282-4f7d-b42b-f9221e7be350)
