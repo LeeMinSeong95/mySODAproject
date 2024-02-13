@@ -42,7 +42,7 @@
 	<img src="https://img.shields.io/badge/Spring-008000?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Ajax-4682B4?style=flat&logo=Ajax&logoColor=white" />
 	<img src="https://img.shields.io/badge/Servlet&JSP-4682B4?style=flat&logo=JSP&logoColor=white" />
-</div> <br><br>
+</div> <br>
 
 <div>
 	<div>
@@ -52,7 +52,7 @@
 	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=black" />
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
-</div> <br> <br>
+</div> <br> 
 
 <div>
 	<div>
@@ -61,7 +61,7 @@
 	<img src="https://img.shields.io/badge/gns_nim_95-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 	<img src="https://img.shields.io/badge/mmnwoo33@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	<img src="https://img.shields.io/badge/mmnwoo33@naver.com-03C75A?style=flat&logo=Naver&logoColor=white">
-</div> <br> <br>
+</div> <br> 
 
 <div>
 	<div>
