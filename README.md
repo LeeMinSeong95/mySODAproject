@@ -4,6 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome_MinSeong_Github!&fontSize=50" />
 </div>
 
+# 😀Introduce My Self
+1. 이름 : 이민성 / Lee Min Seong
+2. 생년월일 : 1995.10.19
+3. 학력 : 초대졸
+4. 병역 : 군필(육군 병장 만기 제대)
+
 # 📑Introduce My Project!
 
     1. 프로젝트명 : 협업툴-SODA
