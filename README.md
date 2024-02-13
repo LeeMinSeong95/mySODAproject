@@ -70,7 +70,8 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMinSeong95&layout=compact"><br><br>
 </div>
 
-# ⏱Implementation of Features
+# ⏱Function Implementation
+
 
 # 🛢DataBase ERD
 ![SODA_ERD](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/71aecd64-0282-4f7d-b42b-f9221e7be350)
