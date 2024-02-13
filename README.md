@@ -4,7 +4,7 @@
 
 # 프로젝트
 
-## 📑Introduce my project!📑
+## 📑Introduce My Project!📑
 협업툴 flow를 참고하여 만든 협업툴 프로젝트입니다.
 
 ### 📡Tech Stack & Tools📡
