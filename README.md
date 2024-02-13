@@ -5,8 +5,8 @@
 </div>
 
 # 😀Introduce My Self
-1. 이름 : 이민성 / Lee Min Seong
-2. 생년월일 : 1995.10.19
+1. 이름 : 이민성 / Lee Min Seong 
+2. 생년월일 : 1995.10.19 󾓮
 3. 학력 : 초대졸
 4. 병역 : 군필(병과 : 육군 / 계급 : 병장 / 병과 : 통신)
 5. 신념 : 포기하지 말자
@@ -22,7 +22,7 @@
 
     <기능구현 담당>
     · 팀장-신동한 : 관리자페이지, 좌측바(모아보기 탭)
-    · 팀원-이민성 : 검색바, 피드페이지, 프로필 팝업
+    · 팀원-이민성 : 검색바, 피드페이지, 프로필팝업
     · 팀원-장세현 : 대시보드페이지, 좌측바(프로젝트 폴더)
     · 팀원-문현식 : 로그인페이지, 회원가입페이지
 
@@ -70,3 +70,5 @@
 	</div> <br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMinSeong95&layout=compact"><br><br>
 </div>
+
+# Implementation of Features
