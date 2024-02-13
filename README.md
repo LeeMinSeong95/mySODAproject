@@ -3,5 +3,5 @@
 </div>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=협업툴-SODA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=SODA&logoColor=white"/>
 </div>
