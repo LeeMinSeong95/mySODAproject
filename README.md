@@ -8,5 +8,5 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-4682B4?style=flat&logo=jQuery&logoColor=white" />
-	<img src="https://img.shields.io/badge/Oracle SQL-FF0000?style=flat&logo=OracleSQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/Oracle SQL-FF0000?style=flat&logo=Oracle&logoColor=white" />
 </div>
