@@ -73,23 +73,9 @@
 # ⏱ Function Implementation
 
 <details>
-<summary>1. 로그인</summary>
+<summary>1. 로그인 & 회원가입</summary>
 
-![SODA_Login](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/6a04d926-23d0-43db-9920-fbfd3587604b)
-
-</details>
-
-<details>
-<summary>2. 회원가입 - 새 계정 만들기</summary>
-
-![SODA_Join1](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/2a2a35ff-ba95-4adc-9825-eb63134d0aad)
-
-</details>
-
-<details>
-<summary>3. 회원가입 - 기존 회사 참여</summary>
-
-![SODA_Join2](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/4dfe9ab1-041c-45a6-a9ad-6d6508ef554e)
+![SODA_Login&Join](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/09d3555e-3596-4fa6-b6ec-fc5d792adaea)
 
 </details>
 
