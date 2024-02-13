@@ -122,7 +122,14 @@
 </details>
 
 <details>
-<summary>8. 대시보드 - 연락처 및 채</summary>
+<summary>8. 대시보드 - 연락처 및 채팅</summary>
+
+![SODA_Dashboard_Chatting](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/0f12ddfb-b4df-4369-8ff5-95081b723add)
+
+</details>
+
+<details>
+<summary>9. 검색바 - 프로젝트, 게시글, 파일 검</summary>
 
 ![SODA_Dashboard_Chatting](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/0f12ddfb-b4df-4369-8ff5-95081b723add)
 
