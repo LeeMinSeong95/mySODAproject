@@ -71,7 +71,10 @@
 </div>
 
 # ⏱Function Implementation
-
+1. 로그인	
+ <div>
+	 ![image](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/dfd91004-3315-4b2b-b3ed-046178f6c2c5)
+ </div>
 
 # 🛢DataBase ERD
 ![SODA_ERD](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/71aecd64-0282-4f7d-b42b-f9221e7be350)
