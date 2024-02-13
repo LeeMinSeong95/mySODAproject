@@ -30,4 +30,5 @@
 	<div align="center">
 		📱SNS📱
 	</div> <br>
+	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 </div>
