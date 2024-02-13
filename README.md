@@ -75,7 +75,16 @@
 ![SODA_Login](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/6a04d926-23d0-43db-9920-fbfd3587604b)
 <br>
 
-2. 
+2. 회원가입-새 계정 만들기
+![SODA_Join](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/40182376-87dd-4a30-8eda-e9ef61bf5e68)
+<br>
+
+3. 회원가입-기존 회사 참여
+![SODA_Join2](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/2a88b4c1-963e-4e0b-928e-6d67ece7ad83)
+<br>
+
+4. 대시보드-좌측바(최근업데이트, 프로젝트 폴더 생성)
+![SODA_Sidebar1](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/ad9e0b93-e7a2-4484-a7b4-38f03f94134a)
 
 # 🛢DataBase ERD
 ![SODA_ERD](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/71aecd64-0282-4f7d-b42b-f9221e7be350)
