@@ -82,7 +82,7 @@
 <details>
 <summary>2. 대시보드</summary>
 
-![SODA_Dashboard](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/f63704bf-0926-4e82-8027-fe4a61d1de9e)
+![SODA_Dash](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/4b1c192a-9ce4-4aa7-b1d9-f1bc56112868)
 
 </details>
 
