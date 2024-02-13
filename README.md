@@ -80,37 +80,9 @@
 </details>
 
 <details>
-<summary>4. 대시보드 - 좌측바 (최근 업데이트, 프로젝트 폴더 생성)</summary>
+<summary>2. 대시보드</summary>
 
-![SODA_Sidebar1](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/ad9e0b93-e7a2-4484-a7b4-38f03f94134a)
-
-</details>
-
-<details>
-<summary>5. 대시보드 - 사용자 설정</summary>
-
-![SODA_Dashboard_userOption](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/7a83af03-5ff2-462c-987f-ac3d97555dd6)
-
-</details>
-
-<details>
-<summary>6. 대시보드 - 위젯(프로젝트 출력 및 일)</summary>
-
-![SODA_Dashboard_widget1](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/5aad1290-9646-4416-a54f-97bd0d2b32aa)
-
-</details>
-
-<details>
-<summary>7. 대시보드 - 위젯(게시물 출력, 메모, 업무)</summary>
-
-![SODA_Dashboard_widget2](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/123386e3-9f84-4f98-8a20-30d1d02886a0)
-
-</details>
-
-<details>
-<summary>8. 대시보드 - 연락처 및 채팅</summary>
-
-![SODA_Dashboard_Chatting](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/0f12ddfb-b4df-4369-8ff5-95081b723add)
+![SODA_Dashboard](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/f63704bf-0926-4e82-8027-fe4a61d1de9e)
 
 </details>
 
