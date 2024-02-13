@@ -76,11 +76,11 @@
 <br>
 
 2. 회원가입-새 계정 만들기
-![SODA_Join](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/40182376-87dd-4a30-8eda-e9ef61bf5e68)
+![SODA_Join1](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/2a2a35ff-ba95-4adc-9825-eb63134d0aad)
 <br>
 
 3. 회원가입-기존 회사 참여
-![SODA_Join2](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/2a88b4c1-963e-4e0b-928e-6d67ece7ad83)
+![SODA_Join2](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/4dfe9ab1-041c-45a6-a9ad-6d6508ef554e)
 <br>
 
 4. 대시보드-좌측바(최근업데이트, 프로젝트 폴더 생성)
