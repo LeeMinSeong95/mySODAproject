@@ -117,7 +117,7 @@
 <details>
 <summary>7. 좌측바</summary>
 
-![SODA_Sidebar2](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/c4f3ca7e-50b9-4b0d-90ee-581d01cc5fbf)
+![SODA_Sidebar](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/1eab1497-afe1-45c1-83ca-ff468ab9a071)
 
 </details>
 
