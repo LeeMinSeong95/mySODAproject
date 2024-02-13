@@ -6,7 +6,7 @@
 
 # 😀Introduce My Self
 1. 이름 : 이민성 / Lee Min Seong 
-2. 생년월일 : 1995.10.19 󾓮
+2. 생년월일 : 1995.10.19 
 3. 학력 : 초대졸
 4. 병역 : 군필(병과 : 육군 / 계급 : 병장 / 병과 : 통신)
 5. 신념 : 포기하지 말자
@@ -26,8 +26,7 @@
     · 팀원-장세현 : 대시보드페이지, 좌측바(프로젝트 폴더)
     · 팀원-문현식 : 로그인페이지, 회원가입페이지
 
-# 🛢DataBase ERD
-![SODA_ERD](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/71aecd64-0282-4f7d-b42b-f9221e7be350)
+
 
 # 📡Tech Stack & Tools
 <div>
@@ -71,4 +70,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMinSeong95&layout=compact"><br><br>
 </div>
 
-# Implementation of Features
+# ⏱Implementation of Features
+
+# 🛢DataBase ERD
+![SODA_ERD](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/71aecd64-0282-4f7d-b42b-f9221e7be350)
