@@ -30,7 +30,7 @@
 	<div align="center">
 		📱SNS📱
 	</div> <br>
-	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+	<img src="https://img.shields.io/badge/gns_nim_95-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 	<img src="https://img.shields.io/badge/mmnwoo33@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	<img src="https://img.shields.io/badge/mmnwoo33@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>
 </div> <br> <br>
