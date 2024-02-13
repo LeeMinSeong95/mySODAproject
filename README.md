@@ -17,8 +17,8 @@
 	<img src="https://img.shields.io/badge/Ajax-4682B4?style=flat&logo=Ajax&logoColor=white" />
 </div> <br><br>
 
-<div align="center">
-	<div align="center">
+<div>
+	<div>
 		🔨Tools🔨
 	</div> <br>
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse&logoColor=white" />
@@ -27,8 +27,8 @@
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
 </div> <br> <br>
 
-<div align="center">
-	<div align="center">
+<div>
+	<div>
 		📱SNS📱
 	</div> <br>
 	<img src="https://img.shields.io/badge/gns_nim_95-E4405F?style=flat&logo=Instagram&logoColor=white"/>
@@ -36,8 +36,8 @@
 	<img src="https://img.shields.io/badge/mmnwoo33@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>
 </div> <br> <br>
 
-<div align="center">
-	<div align="center">
+<div>
+	<div>
 		✍Total Report✍
 	</div> <br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMinSeong95&layout=compact"><br><br>
