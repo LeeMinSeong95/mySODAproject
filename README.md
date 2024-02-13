@@ -87,35 +87,35 @@
 </details>
 
 <details>
-<summary>9. 검색바 - 프로젝트, 게시글, 파일 검</summary>
+<summary>3. 검색바 - 프로젝트, 게시글, 파일 검</summary>
 
 ![SODA_Searchbar](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/7d6992ad-540d-43d2-becc-db63119ffb17)
 
 </details>
 
 <details>
-<summary>10. 프로젝트 피드 - 옵션(색상, 폴더, 나가기, 삭제 임직원 초대 및 검색)</summary>
+<summary>4. 프로젝트 피드 - 옵션(색상, 폴더, 나가기, 삭제 임직원 초대 및 검색)</summary>
 
 ![SODA_Project_Option](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/864829c9-8d71-4cc5-9bf5-ec05484be4fd)
 
 </details>
 
 <details>
-<summary>11. 프로젝트 피드 - 게시글 생성(글,업무,일정,할일 생성 및 업무 리포트, 댓글, 좋아요, 북마크)</summary>
+<summary>5. 프로젝트 피드 - 게시글 생성(글,업무,일정,할일 생성 및 업무 리포트, 댓글, 좋아요, 북마크)</summary>
 
 ![SODA_Project_Feed](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/7f7f761d-fd61-4ca5-a003-8ed4e830e97e)
 
 </details>
 
 <details>
-<summary>12. 프로젝트 피드 - 프로필</summary>
+<summary>6. 프로젝트 피드 - 프로필</summary>
 
 ![SODA_MemberProfile](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/d7e27fab-af6c-4405-9fd4-76c22c98315e)
 
 </details>
 
 <details>
-<summary>13. 좌측바 - 내 프로젝트, 게시물</summary>
+<summary>7. 좌측바 - 내 프로젝트, 게시물</summary>
 
 ![SODA_Sidebar2](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/c4f3ca7e-50b9-4b0d-90ee-581d01cc5fbf)
 
