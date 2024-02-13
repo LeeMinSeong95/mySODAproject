@@ -32,4 +32,5 @@
 	</div> <br>
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+	<img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white" />
 </div>
