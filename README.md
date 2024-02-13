@@ -2,13 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome_MinSeong_Github!&fontSize=50" />
 </div>
 
-# 프로젝트
-
 # 📑Introduce My Project!📑
-협업툴 flow를 참고하여 만든 협업툴 프로젝트입니다.
+프로젝트명 : 협업툴-SODA
+소개 : 협업툴 flow를 참고하여 만든 협업툴 프로젝트입니다.
+ : 
 
 # 📡Tech Stack & Tools📡
-"
 <div>
 	<div>
 		💻Tech Stack💻
@@ -22,7 +21,6 @@
 	<img src="https://img.shields.io/badge/Spring-008000?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Ajax-4682B4?style=flat&logo=Ajax&logoColor=white" />
 </div> <br><br>
-"
 
 <div>
 	<div>
