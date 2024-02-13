@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome_MinSeong_Github!&fontSize=50" />
 </div>
 
-# 개발 툴 및 사용 기술
+# Tech Stack & Tools
 <div align="center">
 	<div align="center">
 		💻Tech Stack💻
