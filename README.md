@@ -115,9 +115,16 @@
 </details>
 
 <details>
-<summary>7. 대시보드 - 위젯(연락처 및 채팅)</summary>
+<summary>7. 대시보드 - 위젯(게시물 출력, 메모, 업무)</summary>
 
 ![SODA_Dashboard_widget2](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/123386e3-9f84-4f98-8a20-30d1d02886a0)
+
+</details>
+
+<details>
+<summary>8. 대시보드 - 연락처 및 채</summary>
+
+![SODA_Dashboard_Chatting](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/0f12ddfb-b4df-4369-8ff5-95081b723add)
 
 </details>
 
