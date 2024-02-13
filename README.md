@@ -36,5 +36,8 @@
 </div>
 
 <div align="center">
+	<div align="center">
+		✍Total Report✍
+	</div> <br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMinSeong95&layout=compact"><br><br>s
 </div>
