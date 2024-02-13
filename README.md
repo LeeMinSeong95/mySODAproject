@@ -73,7 +73,7 @@
 # ⏱Function Implementation
 1. 로그인	
  <div>
-	 ![SODA_Login](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/dfd91004-3315-4b2b-b3ed-046178f6c2c5)
+	![로그인페이지](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/c68652e6-8126-4142-8595-481d2ca19030)
  </div>
 
 # 🛢DataBase ERD
