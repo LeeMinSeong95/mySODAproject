@@ -75,7 +75,7 @@
 <details>
 <summary>1. 로그인 & 회원가입</summary>
 
-![SODA_Login&Join](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/09d3555e-3596-4fa6-b6ec-fc5d792adaea)
+![SODA_L_J](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/a35c031b-66aa-4859-9956-11af54364b64)
 
 </details>
 
