@@ -19,7 +19,7 @@
     · 팀원-장세현 : 대시보드페이지, 좌측바(프로젝트 폴더)
     · 팀원-문현식 : 로그인페이지, 회원가입페이지
 
-# SODA DataBase ERD
+# 🛢DataBase ERD
 ![SODA_ERD](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/71aecd64-0282-4f7d-b42b-f9221e7be350)
 
 # 📡Tech Stack & Tools
