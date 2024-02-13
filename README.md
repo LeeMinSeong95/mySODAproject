@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	<div align="center" style="margin-bottom=10px;">
+	<div align="center" style="margin-bottom=10px">
 		💻Tech Stack💻
 	</div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
