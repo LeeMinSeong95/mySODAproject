@@ -87,7 +87,7 @@
 </details>
 
 <details>
-<summary>3. 검색바 - 프로젝트, 게시글, 파일 검</summary>
+<summary>3. 검색바 - 프로젝트, 게시글, 파일 검색</summary>
 
 ![SODA_Searchbar](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/7d6992ad-540d-43d2-becc-db63119ffb17)
 
@@ -115,37 +115,16 @@
 </details>
 
 <details>
-<summary>7. 좌측바 - 내 프로젝트, 게시물</summary>
+<summary>7. 좌측바</summary>
 
 ![SODA_Sidebar2](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/c4f3ca7e-50b9-4b0d-90ee-581d01cc5fbf)
 
 </details>
 
 <details>
-<summary>14. 좌측바 - 전체업무, 캘린더</summary>
-
-![SODA_Sidebar3](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/6fdfe498-8604-4e57-950f-aa4021b07bcf)
-
-</details>
-
-<details>
-<summary>15. 좌측바 - 파일함, 북마크, 내 게시물</summary>
-
-![SODA_Sidebar4](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/e9ea00dc-1e3e-4b1d-be7f-e8f6ca049de9)
-
-</details>
-
-<details>
-<summary>16. 관리자 페이지 - 구성원 관리, 프로젝트 관리</summary>
+<summary>8. 관리자 페이지</summary>
 
 ![SODA_Admin1](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/89ac9bbb-df83-46d1-919c-de23c9a3ee12)
-
-</details>
-
-<details>
-<summary>17. 관리자 페이지 - 파일,로그인 보안설정 , 관리자 변경 이력</summary>
-
-![SODA_Admin2](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/ee42cf6f-da3a-4eeb-875d-3e0d23872a3b)
 
 </details>
 
