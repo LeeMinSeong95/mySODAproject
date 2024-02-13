@@ -72,7 +72,7 @@
 
 # ⏱Function Implementation
 1. 로그인	
-![SODA_Login](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/6a04d926-23d0-43db-9920-fbfd3587604b){:width="100px" height="150px"}
+![SODA_Login](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/6a04d926-23d0-43db-9920-fbfd3587604b){:width="50px" height="50px"}
 
 
 # 🛢DataBase ERD
