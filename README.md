@@ -100,5 +100,26 @@
 
 </details>
 
+<details>
+<summary>5. 대시보드 - 사용자 설정</summary>
+
+![SODA_Dashboard_userOption](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/7a83af03-5ff2-462c-987f-ac3d97555dd6)
+
+</details>
+
+<details>
+<summary>6. 대시보드 - 위젯(프로젝트 출력 및 일)</summary>
+
+![SODA_Dashboard_widget1](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/5aad1290-9646-4416-a54f-97bd0d2b32aa)
+
+</details>
+
+<details>
+<summary>7. 대시보드 - 위젯(연락처 및 채팅)</summary>
+
+![SODA_Dashboard_widget2](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/123386e3-9f84-4f98-8a20-30d1d02886a0)
+
+</details>
+
 # 🛢DataBase ERD
 ![SODA_ERD](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/71aecd64-0282-4f7d-b42b-f9221e7be350)
