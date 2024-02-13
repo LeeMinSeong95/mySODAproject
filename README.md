@@ -70,21 +70,35 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMinSeong95&layout=compact"><br><br>
 </div>
 
-# ⏱Function Implementation
-1. 로그인	
+# ⏱ Function Implementation
+
+<details>
+<summary>1. 로그인</summary>
+
 ![SODA_Login](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/6a04d926-23d0-43db-9920-fbfd3587604b)
-<br>
 
-2. 회원가입-새 계정 만들기
+</details>
+
+<details>
+<summary>2. 회원가입 - 새 계정 만들기</summary>
+
 ![SODA_Join1](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/2a2a35ff-ba95-4adc-9825-eb63134d0aad)
-<br>
 
-3. 회원가입-기존 회사 참여
+</details>
+
+<details>
+<summary>3. 회원가입 - 기존 회사 참여</summary>
+
 ![SODA_Join2](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/4dfe9ab1-041c-45a6-a9ad-6d6508ef554e)
-<br>
 
-4. 대시보드-좌측바(최근업데이트, 프로젝트 폴더 생성)
+</details>
+
+<details>
+<summary>4. 대시보드 - 좌측바 (최근 업데이트, 프로젝트 폴더 생성)</summary>
+
 ![SODA_Sidebar1](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/ad9e0b93-e7a2-4484-a7b4-38f03f94134a)
+
+</details>
 
 # 🛢DataBase ERD
 ![SODA_ERD](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/71aecd64-0282-4f7d-b42b-f9221e7be350)
