@@ -143,21 +143,28 @@
 </details>
 
 <details>
-<summary>10. 프로젝트 피드 - 프로필</summary>
+<summary>11. 프로젝트 피드 - 댓글 생성 및 수정,삭제 / 좋아요, 북마크</summary>
+
+![reply](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/2f918885-761d-43bf-aaff-35343315eb12)
+
+</details>
+
+<details>
+<summary>12. 프로젝트 피드 - 프로필</summary>
 
 ![Profile](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/ad426c6d-d2aa-4213-bed9-a5c57bccda5a)
 
 </details>
 
 <details>
-<summary>11. 좌측바</summary>
+<summary>13. 좌측바</summary>
 
 ![SODA_Sidebar](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/1eab1497-afe1-45c1-83ca-ff468ab9a071)
 
 </details>
 
 <details>
-<summary>12. 관리자 페이지</summary>
+<summary>14. 관리자 페이지</summary>
 
 ![SODA_Ad](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/00902e56-1527-4666-b04b-a67fc87e2bf7)
 
