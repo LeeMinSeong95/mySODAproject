@@ -89,7 +89,7 @@
 <details>
 <summary>3. 검색바 - 프로젝트, 게시글, 파일 검색</summary>
 
-![SODA_Searchbar](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/6779941c-c4c6-4150-855a-d7483629587a)
+![Searchbar](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/0dfbacb1-e971-4ab9-8540-96fd9572f83f)
 
 </details>
 
