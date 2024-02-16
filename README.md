@@ -117,7 +117,7 @@
 <details>
 <summary>6. 프로젝트 피드 - 프로필</summary>
 
-![SODA_MemberProfile](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/d7e27fab-af6c-4405-9fd4-76c22c98315e)
+![Profile](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/ad426c6d-d2aa-4213-bed9-a5c57bccda5a)
 
 </details>
 
