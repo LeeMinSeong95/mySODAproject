@@ -108,49 +108,49 @@
 </details>
 
 <details>
-<summary>5. 프로젝트 피드 - 게시글 생성(글)</summary>
+<summary>6. 프로젝트 피드 - 게시글 생성(글)</summary>
 
 ![post](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/de6ecb9c-f769-438c-9141-adb5c938a791)
 
 </details>
 
 <details>
-<summary>5. 프로젝트 피드 - 게시글 생성(업무)</summary>
+<summary>7. 프로젝트 피드 - 게시글 생성(업무)</summary>
+
+![work](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/121e91aa-ca9b-4a4d-a5dd-c055c759fa1d)
+
+</details>
+
+<details>
+<summary>8. 프로젝트 피드 - 게시글 생성(일정)</summary>
 
 ![post](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/de6ecb9c-f769-438c-9141-adb5c938a791)
 
 </details>
 
 <details>
-<summary>5. 프로젝트 피드 - 게시글 생성(일정)</summary>
+<summary>9. 프로젝트 피드 - 게시글 생성(할일)</summary>
 
 ![post](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/de6ecb9c-f769-438c-9141-adb5c938a791)
 
 </details>
 
 <details>
-<summary>5. 프로젝트 피드 - 게시글 생성(할일)</summary>
-
-![post](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/de6ecb9c-f769-438c-9141-adb5c938a791)
-
-</details>
-
-<details>
-<summary>6. 프로젝트 피드 - 프로필</summary>
+<summary>10. 프로젝트 피드 - 프로필</summary>
 
 ![Profile](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/ad426c6d-d2aa-4213-bed9-a5c57bccda5a)
 
 </details>
 
 <details>
-<summary>7. 좌측바</summary>
+<summary>11. 좌측바</summary>
 
 ![SODA_Sidebar](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/1eab1497-afe1-45c1-83ca-ff468ab9a071)
 
 </details>
 
 <details>
-<summary>8. 관리자 페이지</summary>
+<summary>12. 관리자 페이지</summary>
 
 ![SODA_Ad](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/00902e56-1527-4666-b04b-a67fc87e2bf7)
 
