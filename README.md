@@ -103,7 +103,7 @@
 <details>
 <summary>5. 프로젝트 피드 - 옵션2(임직원 초대하기, 참여자 검색)</summary>
 
-![Project_option2](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/aa7ece6f-242d-40ae-8bbb-7d16bdd034a4)
+![invite](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/f19a1ac8-5083-492e-8155-1387a53966ea)
 
 </details>
 
