@@ -136,6 +136,13 @@
 </details>
 
 <details>
+<summary>10. 프로젝트 피드 - 게시글 수정 및 삭제 / 댓글 로그</summary>
+
+![modify](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/bdb3f5dc-d62b-453f-aea4-b11e05a3bef0)
+
+</details>
+
+<details>
 <summary>10. 프로젝트 피드 - 프로필</summary>
 
 ![Profile](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/ad426c6d-d2aa-4213-bed9-a5c57bccda5a)
