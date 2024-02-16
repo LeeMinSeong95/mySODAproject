@@ -124,7 +124,7 @@
 <details>
 <summary>8. 프로젝트 피드 - 게시글 생성(일정)</summary>
 
-![post](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/de6ecb9c-f769-438c-9141-adb5c938a791)
+![schedule](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/ff02c87a-e31a-47e3-b0aa-b79f8ebd1299)
 
 </details>
 
