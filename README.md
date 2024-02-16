@@ -94,9 +94,16 @@
 </details>
 
 <details>
-<summary>4. 프로젝트 피드 - 옵션(색상, 폴더, 나가기, 삭제, 임직원 초대 및 검색)</summary>
+<summary>4. 프로젝트 피드 - 옵션1(색상, 폴더, 나가기, 삭제)</summary>
 
-![SODA_Project_Option](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/864829c9-8d71-4cc5-9bf5-ec05484be4fd)
+![Project_option1](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/d107ec45-15d6-4841-abbb-e8262ace80c5)
+
+</details>
+
+<details>
+<summary>5. 프로젝트 피드 - 옵션2(임직원 초대하기, 참여자 검색)</summary>
+
+![Project_option1](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/d107ec45-15d6-4841-abbb-e8262ace80c5)
 
 </details>
 
