@@ -115,7 +115,7 @@
 </details>
 
 <details>
-<summary>7. 프로젝트 피드 - 게시글 생성(업무)</summary>
+<summary>7. 프로젝트 피드 - 게시글 생성(업무) 및 업무리포트</summary>
 
 ![work](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/121e91aa-ca9b-4a4d-a5dd-c055c759fa1d)
 
