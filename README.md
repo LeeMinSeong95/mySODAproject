@@ -108,9 +108,30 @@
 </details>
 
 <details>
-<summary>5. 프로젝트 피드 - 게시글 생성(글,업무,일정,할일 생성 및 업무 리포트, 댓글, 좋아요, 북마크)</summary>
+<summary>5. 프로젝트 피드 - 게시글 생성(글)</summary>
 
-![SODA_Project_Feed](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/7f7f761d-fd61-4ca5-a003-8ed4e830e97e)
+![post](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/de6ecb9c-f769-438c-9141-adb5c938a791)
+
+</details>
+
+<details>
+<summary>5. 프로젝트 피드 - 게시글 생성(업무)</summary>
+
+![post](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/de6ecb9c-f769-438c-9141-adb5c938a791)
+
+</details>
+
+<details>
+<summary>5. 프로젝트 피드 - 게시글 생성(일정)</summary>
+
+![post](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/de6ecb9c-f769-438c-9141-adb5c938a791)
+
+</details>
+
+<details>
+<summary>5. 프로젝트 피드 - 게시글 생성(할일)</summary>
+
+![post](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/de6ecb9c-f769-438c-9141-adb5c938a791)
 
 </details>
 
