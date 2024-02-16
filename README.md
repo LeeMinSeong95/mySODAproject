@@ -124,14 +124,14 @@
 <details>
 <summary>8. 프로젝트 피드 - 게시글 생성(일정)</summary>
 
-![schedule](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/ff02c87a-e31a-47e3-b0aa-b79f8ebd1299)
+![schedule](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/a2f9ba15-d59b-4d97-b622-1c46b8ee5869)
 
 </details>
 
 <details>
 <summary>9. 프로젝트 피드 - 게시글 생성(할일)</summary>
 
-![post](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/de6ecb9c-f769-438c-9141-adb5c938a791)
+![todo](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/8ce51411-ca1e-45ac-8214-5130ef3d5fbd)
 
 </details>
 
