@@ -72,103 +72,75 @@
 
 # ⏱ Function Implementation
 
-<details>
-<summary>1. 로그인 & 회원가입</summary>
+1. 로그인 & 회원가입
 
 ![SODA_L_J](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/a35c031b-66aa-4859-9956-11af54364b64)
+<br>
 
-</details>
-
-<details>
-<summary>2. 대시보드</summary>
+2. 대시보드
 
 ![SODA_Dash](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/4b1c192a-9ce4-4aa7-b1d9-f1bc56112868)
+<br>
 
-</details>
-
-<details>
-<summary>3. 검색바 - 프로젝트, 게시글, 파일 검색</summary>
+3. 검색바 - 프로젝트, 게시글, 파일 검색
 
 ![Searchbar](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/0dfbacb1-e971-4ab9-8540-96fd9572f83f)
+<br>
 
-</details>
-
-<details>
-<summary>4. 프로젝트 피드 - 옵션1(색상, 폴더, 나가기, 삭제)</summary>
+4. 프로젝트 피드 - 옵션1(색상, 폴더, 나가기, 삭제)
 
 ![Project_option1](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/d107ec45-15d6-4841-abbb-e8262ace80c5)
+<br>
 
-</details>
-
-<details>
-<summary>5. 프로젝트 피드 - 옵션2(임직원 초대하기, 참여자 검색)</summary>
+5. 프로젝트 피드 - 옵션2(임직원 초대하기, 참여자 검색)
 
 ![invite](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/f19a1ac8-5083-492e-8155-1387a53966ea)
+<br>
 
-</details>
-
-<details>
-<summary>6. 프로젝트 피드 - 게시글 생성(글)</summary>
+6. 프로젝트 피드 - 게시글 생성(글)
 
 ![post](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/de6ecb9c-f769-438c-9141-adb5c938a791)
+<br>
 
-</details>
-
-<details>
-<summary>7. 프로젝트 피드 - 게시글 생성(업무) 및 업무리포트</summary>
+7. 프로젝트 피드 - 게시글 생성(업무) 및 업무리포트
 
 ![work](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/121e91aa-ca9b-4a4d-a5dd-c055c759fa1d)
+<br>
 
-</details>
-
-<details>
-<summary>8. 프로젝트 피드 - 게시글 생성(일정)</summary>
+8. 프로젝트 피드 - 게시글 생성(일정)
 
 ![schedule](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/a2f9ba15-d59b-4d97-b622-1c46b8ee5869)
+<br>
 
-</details>
-
-<details>
-<summary>9. 프로젝트 피드 - 게시글 생성(할일)</summary>
+9. 프로젝트 피드 - 게시글 생성(할일)
 
 ![todo](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/8ce51411-ca1e-45ac-8214-5130ef3d5fbd)
+<br>
 
-</details>
-
-<details>
-<summary>10. 프로젝트 피드 - 게시글 수정 및 삭제 / 댓글 로그</summary>
+10. 프로젝트 피드 - 게시글 수정 및 삭제 / 댓글 로그
 
 ![modify](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/bdb3f5dc-d62b-453f-aea4-b11e05a3bef0)
+<br>
 
-</details>
-
-<details>
-<summary>11. 프로젝트 피드 - 댓글 생성 및 수정,삭제 / 좋아요, 북마크</summary>
+11. 프로젝트 피드 - 댓글 생성 및 수정,삭제 / 좋아요, 북마크
 
 ![reply](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/2f918885-761d-43bf-aaff-35343315eb12)
+<br>
 
-</details>
-
-<details>
-<summary>12. 프로젝트 피드 - 프로필</summary>
+12. 프로젝트 피드 - 프로필
 
 ![Profile](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/ad426c6d-d2aa-4213-bed9-a5c57bccda5a)
+<br>
 
-</details>
-
-<details>
-<summary>13. 좌측바</summary>
+13. 좌측바
 
 ![SODA_Sidebar](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/1eab1497-afe1-45c1-83ca-ff468ab9a071)
+<br>
 
-</details>
-
-<details>
-<summary>14. 관리자 페이지</summary>
+14. 관리자 페이지
 
 ![SODA_Ad](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/00902e56-1527-4666-b04b-a67fc87e2bf7)
-
-</details>
+<br>
 
 # 🛢DataBase ERD
 ![SODA_ERD](https://github.com/LeeMinSeong95/mySODAproject/assets/157666399/71aecd64-0282-4f7d-b42b-f9221e7be350)
